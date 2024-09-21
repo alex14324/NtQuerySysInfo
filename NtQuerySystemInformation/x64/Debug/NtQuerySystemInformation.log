@@ -1,0 +1,11 @@
+﻿  NtQuerySystemInformation.c
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(39,60): warning C4047: 'function': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(39,60): warning C4024: 'pNtQuerySystemInformation': different types for formal and actual parameter 3
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(67,15): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'DWORD'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(68,56): warning C4311: 'type cast': pointer truncation from 'HANDLE' to 'DWORD'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(84,14): warning C4047: '==': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(23,14): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(24,10): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(27,16): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation\NtQuerySystemInformation.c(96,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  NtQuerySystemInformation.vcxproj -> C:\Users\Administrator\Desktop\MD\34.NtQuerySystemInformation\NtQuerySystemInformation\x64\Debug\NtQuerySystemInformation.exe
